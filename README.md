@@ -80,7 +80,6 @@ Dashboard ini dilengkapi dengan beberapa filter interaktif (slicer):
 * Gender
 * Customer Type
 * Month
-* (Recommended) Product Line, Payment Method, dan City
 
 ---
 
@@ -95,7 +94,8 @@ Dashboard ini dilengkapi dengan beberapa filter interaktif (slicer):
 
 ## 📷 Dashboard Preview
 
-*(Tambahkan screenshot dashboard di sini)*
+*<img width="1478" height="836" alt="image" src="https://github.com/user-attachments/assets/9453a298-bf1b-4574-8989-cead859c1925" />
+*
 
 ---
 
